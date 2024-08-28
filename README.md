@@ -1,7 +1,5 @@
 # Binance Trade Bot Manager Telegram
 
-A Telegram bot for remotely managing Edendg23's [Binance Trade Bot](https://github.com/edeng23/binance-trade-bot) and its forks ([Idkravitz's](https://github.com/idkravitz/binance-trade-bot), [Tntwist's](https://github.com/tntwist/binance-trade-bot), [MasaiasuOse's](https://github.com/MasaiasuOse/binance-trade-bot) being the major forks).
-
 This program aims to be an easy way of managing Binance Trade Bot so that I wouldn't have to constantly ssh into my VPS, and my non-techy friends could enjoy the benefits of automated trading.
 
 This program supports only Linux and WSL. Other distributions (BSD, MacOS, Windows, ...) are unmainted and support is not currently planned and is supposed to run 24/7. If you can't have a long running computer on linux, you can use a free VPS, such as Oracle Cloud's.
@@ -218,13 +216,3 @@ This project follows the [all-contributors] specification.
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-[binance trade bot]: https://github.com/edeng23/binance-trade-bot
-[wsl]: https://docs.microsoft.com/en-us/windows/wsl/install-win10
-[troubleshooting]: ./docs/troubleshooting.md
-[docker setup]: ./docs/docker-setup.md
-[open an issue]: https://github.com/lorcalhost/BTB-manager-telegram/issues/new
-[contributing guidelines]: ./CONTRIBUTING.md
-[all-contributors]: https://github.com/all-contributors/all-contributors
