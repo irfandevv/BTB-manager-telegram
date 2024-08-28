@@ -133,9 +133,6 @@ Severa known problems are present on **native Windows** and will not be asserted
 
 **MacOS** compatibility is unknown, but supposed to be good ad this system is close to **Linux**.
 
-## Screenshots
-<details><summary>Click here</summary>
-
 <p align="center">
   	<img height="20%" width="20%" src="https://i.imgur.com/9JUN2G7.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="20%" width="20%" src="https://i.imgur.com/FBSNURs.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
