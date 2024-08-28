@@ -142,33 +142,6 @@ Severa known problems are present on **native Windows** and will not be asserted
     <img height="20%" width="20%" src="https://i.imgur.com/UKyREe9.jpg" />
 </p>
 </details>
-
-## Contributions and feature requests
-
-If you have any feature requests please [open an issue].
-
-Contributions from anyone are welcome! Before opening pull requests please read the [contributing guidelines].
-
-## Disclaimer
-
-This project is for informational purposes only. You should not consider any
-such information or other material as legal, tax, investment, financial, or
-other advice. Nothing contained here constitutes a solicitation, recommendation,
-endorsement, or offer by me or any third party service provider to buy or sell
-any securities or other financial instruments in this or in any other
-jurisdiction in which such solicitation or offer would be unlawful under the
-securities laws of such jurisdiction.
-
-**If you plan to use real money, USE AT YOUR OWN RISK.**
-
-Under no circumstances will I or the project's maintainers be held responsible or liable in any way for any claims, damages, losses, expenses, costs, or liabilities whatsoever, including, without limitation, any direct or indirect damages for loss of profits.
-
-## Contributors ✨
-
-Many people contributed to the project by providing ideas, finding bugs and helping in the development ([Emoji Key ✨](https://allcontributors.org/docs/en/emoji-key)).  
-This project follows the [all-contributors] specification.
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
